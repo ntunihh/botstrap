@@ -18,8 +18,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "qjuery": "~0.0.5"
-  }
+  ]
 }

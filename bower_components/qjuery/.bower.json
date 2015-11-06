@@ -1,0 +1,36 @@
+{
+  "name": "qjuery",
+  "authors": [
+    "hans <hans_adel@zoho.com>"
+  ],
+  "description": "Interactions and Widgets for the web",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "test",
+    "pmba"
+  ],
+  "license": "MIT",
+  "homepage": "bower.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "botstrap": "*"
+  },
+  "version": "0.0.5",
+  "_release": "0.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.5",
+    "commit": "185ed4385811549807633b6301816530b1cc5bdc"
+  },
+  "_source": "git://github.com/ntunihh/qjuery.git",
+  "_target": "~0.0.5",
+  "_originalSource": "qjuery",
+  "_direct": true
+}

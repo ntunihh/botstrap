@@ -1,9 +1,9 @@
 {
-  "name": "botstrap",
+  "name": "qjuery",
   "authors": [
-    "hans <hans@example.org>"
+    "hans <hans_adel@zoho.com>"
   ],
-  "description": "bootstrap for swedish speakers.",
+  "description": "Interactions and Widgets for the web",
   "main": "",
   "moduleType": [],
   "keywords": [
@@ -20,6 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "qjuery": "~0.0.5"
+    "botstrap": "*"
   }
 }

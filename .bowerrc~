@@ -1,6 +1,5 @@
 {
     "scripts": {
-	    "preinstall": "node ./bower_components/qjuery/scripts/preinstall.js",
 	    "postinstall": "",
 	    "preuninstall": ""
     }
