@@ -1,0 +1,22 @@
+{
+  "name": "botstrap",
+  "authors": [
+    "hans <hans@example.org>"
+  ],
+  "description": "bootstrap for swedish speakers.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "test",
+    "pmba"
+  ],
+  "license": "MIT",
+  "homepage": "bower.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
